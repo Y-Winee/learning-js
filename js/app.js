@@ -5,6 +5,7 @@ const showResult = document.querySelector("#result");
 const google = document.querySelector("#google");
 const yt = document.querySelector("#youtube");
 
+
 google.setAttribute("href", "https://www.youtube.com");
 google.removeAttribute("target");
 
